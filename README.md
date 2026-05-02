@@ -2,7 +2,7 @@
 
  Computer Science & Engineering Student  
  Sylhet, Bangladesh  
- rajsree2002@gmail.com  
+ rajsreekar2002@gmail.com  
  GitHub: [rajsree279](https://github.com/rajsree279)
 
 ---
@@ -86,4 +86,4 @@ Flutter mobile app for finding houses and rentals.
 ##  Connect With Me
 
 GitHub: [github.com/rajsree279](https://github.com/rajsree279)  
-Email: rajsree2002@gmail.com
+Email: rajsreekar2002@gmail.com
